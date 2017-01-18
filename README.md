@@ -1,4 +1,4 @@
-# libscap
+# libscrncap
 Screen capture library for C
 
 ## References
