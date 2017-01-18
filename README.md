@@ -1,6 +1,9 @@
 # libscap
 Screen capture library for C
 
+## References
+1. http://example.com
+
 ## License
 The MIT License
 
