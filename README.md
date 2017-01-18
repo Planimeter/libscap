@@ -2,7 +2,7 @@
 Screen capture library for C
 
 ## References
-1. http://example.com
+1. https://developer.apple.com/library/content/qa/qa1740/_index.html
 
 ## License
 The MIT License
